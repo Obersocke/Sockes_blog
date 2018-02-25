@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Publishing a Jekyll-Site on Gihub Pages"
-date:   2018-02-01 11:55:33 +0100
+date:   2018-02-25 11:55:33 +0100
 categories: jekyll update
 ---
 
