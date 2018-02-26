@@ -52,8 +52,12 @@ e.g. in my case :
 
 [https://obersocke.github.io/sockes_blog/][self-link]
 
+Videos on youtube:
+[Giraffe Academy][giraffe-academy]
+
+
 [jekyll-docs-intallation]: https://jekyllrb.com/docs/installation/
-[git-installation]:   https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+[git-installation]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 [git-hub]: https://github.com/
 [self-link]: https://obersocke.github.io/sockes_blog/
-
+[giraffe-academy]: https://www.youtube.com/watch?v=fqFjuX4VZmU
