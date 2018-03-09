@@ -53,6 +53,7 @@ e.g. in my case :
 [https://obersocke.github.io/sockes_blog/][self-link]
 
 Videos on youtube:
+
 [Giraffe Academy][giraffe-academy]
 
 
